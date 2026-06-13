@@ -58,9 +58,9 @@ def generate(com_name):
         "--prompt", final_prompt,
         "--output", str(out_path),
         "--model", "schnell",
-        "--steps", "8",
-        "--width", "1024",
-        "--height", "1024",
+        "--steps", "6",
+        "--width", "800",
+        "--height", "800",
         "-q", "8"
     ]
 

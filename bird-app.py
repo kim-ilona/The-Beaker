@@ -72,7 +72,7 @@ def stop():
     status_text.config(text="Stopped")
 
 def open_dashboard():
-    subprocess.Popen(["open", "http://localhost:8765/avian-visitors-dashboard.html"])
+    subprocess.Popen(["open", "http://localhost:8765/index.html"])
 
 def on_close():
     stop()
