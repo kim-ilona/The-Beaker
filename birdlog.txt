@@ -227,7 +227,6 @@
 2026-06-12 09:41:36	Song Sparrow	76	Melospiza melodia
 2026-06-12 09:42:11	Song Sparrow	78	Melospiza melodia
 2026-06-12 09:42:11	Song Sparrow	82	Melospiza melodia
-2026-06-12 09:46:36	Brown Creeper	68	Certhia americana
 2026-06-12 09:59:35	House Wren	94	Troglodytes aedon
 2026-06-12 10:01:28	Northern Parula	71	Setophaga americana
 2026-06-12 10:04:46	Warbling Vireo	99	Vireo gilvus
@@ -259,7 +258,6 @@
 2026-06-12 17:36:47	Song Sparrow	68	Melospiza melodia
 2026-06-12 17:37:14	Song Sparrow	87	Melospiza melodia
 2026-06-12 17:37:14	Song Sparrow	76	Melospiza melodia
-2026-06-12 17:45:34	Pileated Woodpecker	75	Dryocopus pileatus
 2026-06-12 17:47:58	Red-winged Blackbird	74	Agelaius phoeniceus
 2026-06-12 17:55:08	Song Sparrow	81	Melospiza melodia
 2026-06-12 18:01:13	Downy Woodpecker	75	Dryobates pubescens
