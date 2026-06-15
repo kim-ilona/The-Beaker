@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Beaker</title>
+<title>The beaker</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Work+Sans:wght@300..600&display=swap" rel="stylesheet">
@@ -405,8 +405,8 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
   <a href="#main" class="sr-only">Skip to content</a>
 
 <header>
-  <a href="#" class="logo" aria-label="The Beaker">
-    The Beaker
+  <a href="#" class="logo" aria-label="The beaker">
+    The beaker
   </a>
   <div class="header-right">
     <div class="status-dot">
@@ -590,7 +590,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
       tbody.innerHTML = visible.map((r,i) => {
         const pct = confNum(r.confidence);
         return `<tr class="${i<3?'new-row':''}">
-          <td class="td-time"><span style="color:var(--color-text-faint)">${formatDate(r.timestamp)}</span> ${formatTime(r.timestamp)}</td>
+          <td class="td-time"><span style="color:var(--color-text-faint);display:block;font-size: 0.9em;line-height:1.4">${formatDate(r.timestamp)}</span>${formatTime(r.timestamp)}</td>
           <td class="td-common">${r.common}</td>
           <td class="td-scientific">${r.scientific}</td>
           <td>

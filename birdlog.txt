@@ -460,3 +460,12 @@
 2026-06-14 15:57:44	Barn Swallow	65	Hirundo rustica
 2026-06-14 16:02:25	Song Sparrow	68	Melospiza melodia
 2026-06-14 16:06:30	Song Sparrow	72	Melospiza melodia
+2026-06-15 08:13:30	Song Sparrow	69	Melospiza melodia
+2026-06-15 08:13:30	House Finch	68	Haemorhous mexicanus
+2026-06-15 08:14:01	Song Sparrow	66	Melospiza melodia
+2026-06-15 08:29:32	House Wren	70	Troglodytes aedon
+2026-06-15 08:30:04	House Wren	81	Troglodytes aedon
+2026-06-15 08:31:08	House Wren	72	Troglodytes aedon
+2026-06-15 08:32:13	House Wren	71	Troglodytes aedon
+2026-06-15 08:32:13	House Wren	70	Troglodytes aedon
+2026-06-15 08:32:13	House Wren	73	Troglodytes aedon
