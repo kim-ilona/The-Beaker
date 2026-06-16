@@ -678,7 +678,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
   function loadLog() {
     fetch(logUrl+'?t='+Date.now())
       .then(r => { if(!r.ok) throw new Error(); return r.text(); })
-      .then(text => { allRows = parseLog(text); setStatus(allRows.length>0); renderFromData(); })
+      .then(text => { allRows = parseLog(text); renderFromData(); })
       .catch(() => { setStatus(false); if(!allRows.length) renderFromData(); });
   }
 
@@ -792,6 +792,24 @@ window.playBirdAudio = function(btn, slug) {
   tryPlay(0);
 }
 
+const STATUS_URL = 'status.json';
+const STALE_SECONDS = 90;
+
+function checkStatus() {
+  fetch(STATUS_URL + '?t=' + Date.now())
+    .then(r => r.ok ? r.json() : null)
+    .then(data => {
+      if (!data) return setStatus(false);
+      const age = (Date.now() / 1000) - data.ts;
+      setStatus(data.running === true && age < STALE_SECONDS);
+    })
+    .catch(() => {});
+}
+
+checkStatus();
+setInterval(checkStatus, refreshRate * 1000);  
+  
+  
   loadLog();
   let pollInterval = setInterval(loadLog, refreshRate * 1000);
 })();
