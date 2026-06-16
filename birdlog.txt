@@ -679,3 +679,4 @@
 2026-06-16 12:38:01	House Wren	86	Troglodytes aedon
 2026-06-16 12:42:16	Yellow Warbler	69	Setophaga petechia
 2026-06-16 12:52:39	Broad-winged Hawk	68	Buteo platypterus
+2026-06-16 13:13:38	American Redstart	74	Setophaga ruticilla
