@@ -574,3 +574,5 @@
 2026-06-15 20:54:05	Song Sparrow	80	Melospiza melodia
 2026-06-16 07:47:04	House Wren	87	Troglodytes aedon
 2026-06-16 07:47:04	American Redstart	91	Setophaga ruticilla
+2026-06-16 07:47:35	House Wren	67	Troglodytes aedon
+2026-06-16 07:47:35	House Wren	96	Troglodytes aedon
