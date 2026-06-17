@@ -808,3 +808,4 @@
 2026-06-17 17:37:26	Broad-winged Hawk	97	Buteo platypterus
 2026-06-17 17:37:26	Blue-winged Warbler	73	Vermivora cyanoptera
 2026-06-17 17:38:28	Broad-winged Hawk	88	Buteo platypterus
+2026-06-17 17:44:35	Northern Parula	73	Setophaga americana
