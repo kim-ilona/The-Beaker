@@ -688,3 +688,5 @@
 2026-06-16 14:47:25	American Redstart	72	Setophaga ruticilla
 2026-06-16 14:56:10	Red-winged Blackbird	77	Agelaius phoeniceus
 2026-06-16 15:21:48	Red-winged Blackbird	67	Agelaius phoeniceus
+2026-06-17 09:45:09	House Wren	74	Troglodytes aedon
+2026-06-17 09:45:09	House Wren	70	Troglodytes aedon
