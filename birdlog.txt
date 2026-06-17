@@ -782,3 +782,4 @@
 2026-06-17 14:33:15	Northern Parula	79	Setophaga americana
 2026-06-17 14:33:15	Northern Parula	74	Setophaga americana
 2026-06-17 14:34:18	Northern Parula	83	Setophaga americana
+2026-06-17 14:35:21	Warbling Vireo	89	Vireo gilvus
