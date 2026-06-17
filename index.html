@@ -743,11 +743,13 @@ let currentAudio = null;
 window.playBirdAudio = function(btn, slug) {
   if (currentAudio) {
     currentAudio.pause();
+    currentAudio.currentTime = 0; // ← also good to reset position
     currentAudio = null;
     document.querySelectorAll('.species-audio-btn.playing').forEach(b => {
       b.classList.remove('playing');
       b.textContent = 'Listen';
     });
+    return; // ← THIS is the missing line
   }
 
   const candidates = Array.from({length: 36}, (_, i) => 65 + i);
