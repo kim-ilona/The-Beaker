@@ -852,3 +852,4 @@
 2026-06-19 18:18:00	Warbling Vireo	82	Vireo gilvus
 2026-06-20 07:26:32	Scarlet Tanager	81	Piranga olivacea
 2026-06-20 07:28:36	Warbling Vireo	90	Vireo gilvus
+2026-06-20 07:45:01	Gray Catbird	72	Dumetella carolinensis
