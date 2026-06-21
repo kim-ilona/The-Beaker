@@ -1446,3 +1446,4 @@
 2026-06-21 17:41:06	American Redstart	80	Setophaga ruticilla
 2026-06-21 17:42:44	Warbling Vireo	75	Vireo gilvus
 2026-06-21 17:42:44	Warbling Vireo	88	Vireo gilvus
+2026-06-21 17:46:29	House Wren	91	Troglodytes aedon
