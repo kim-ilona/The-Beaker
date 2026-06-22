@@ -1705,3 +1705,4 @@
 2026-06-22 07:08:07	Warbling Vireo	83	Vireo gilvus
 2026-06-22 07:13:20	Cedar Waxwing	79	Bombycilla cedrorum
 2026-06-22 07:24:53	Purple Martin	72	Progne subis
+2026-06-22 07:30:38	Chimney Swift	79	Chaetura pelagica
