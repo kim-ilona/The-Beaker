@@ -2025,3 +2025,4 @@
 2026-06-22 16:28:10	Yellow Warbler	94	Setophaga petechia
 2026-06-22 16:28:43	Yellow Warbler	88	Setophaga petechia
 2026-06-22 16:29:45	Song Sparrow	86	Melospiza melodia
+2026-06-22 16:30:18	American Redstart	80	Setophaga ruticilla
