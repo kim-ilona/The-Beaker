@@ -1496,3 +1496,4 @@
 2026-06-22 02:03:53	Killdeer	89	Charadrius vociferus
 2026-06-22 04:53:29	Black-crowned Night-Heron	97	Nycticorax nycticorax
 2026-06-22 04:53:29	Black-crowned Night-Heron	98	Nycticorax nycticorax
+2026-06-22 05:20:59	Warbling Vireo	89	Vireo gilvus
