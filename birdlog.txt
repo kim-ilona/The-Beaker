@@ -1940,3 +1940,5 @@
 2026-06-22 14:11:16	Warbling Vireo	80	Vireo gilvus
 2026-06-22 14:12:20	Warbling Vireo	90	Vireo gilvus
 2026-06-22 14:12:20	Warbling Vireo	86	Vireo gilvus
+2026-06-22 14:12:53	Warbling Vireo	94	Vireo gilvus
+2026-06-22 14:12:53	Warbling Vireo	73	Vireo gilvus
