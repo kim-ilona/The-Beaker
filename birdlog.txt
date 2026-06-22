@@ -2026,3 +2026,4 @@
 2026-06-22 16:28:43	Yellow Warbler	88	Setophaga petechia
 2026-06-22 16:29:45	Song Sparrow	86	Melospiza melodia
 2026-06-22 16:30:18	American Redstart	80	Setophaga ruticilla
+2026-06-22 16:30:50	Warbling Vireo	80	Vireo gilvus
