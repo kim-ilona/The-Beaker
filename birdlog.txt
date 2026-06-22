@@ -1741,3 +1741,4 @@
 2026-06-22 09:20:09	Warbling Vireo	74	Vireo gilvus
 2026-06-22 09:29:02	Warbling Vireo	88	Vireo gilvus
 2026-06-22 09:42:35	Rock Pigeon	93	Columba livia
+2026-06-22 09:51:59	Red-winged Blackbird	81	Agelaius phoeniceus
