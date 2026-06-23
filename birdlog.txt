@@ -2105,3 +2105,4 @@
 2026-06-23 10:30:28	Warbling Vireo	78	Vireo gilvus
 2026-06-23 10:59:04	American Redstart	81	Setophaga ruticilla
 2026-06-23 11:26:02	Warbling Vireo	92	Vireo gilvus
+2026-06-23 11:42:05	Black-crowned Night-Heron	75	Nycticorax nycticorax
