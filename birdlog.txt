@@ -2129,3 +2129,4 @@
 2026-06-23 15:25:42	House Sparrow	71	Passer domesticus
 2026-06-23 15:43:33	Common Grackle	70	Quiscalus quiscula
 2026-06-23 15:49:43	House Finch	75	Haemorhous mexicanus
+2026-06-23 15:52:31	American Redstart	82	Setophaga ruticilla
