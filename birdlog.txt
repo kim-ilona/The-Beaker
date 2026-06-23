@@ -2130,3 +2130,5 @@
 2026-06-23 15:43:33	Common Grackle	70	Quiscalus quiscula
 2026-06-23 15:49:43	House Finch	75	Haemorhous mexicanus
 2026-06-23 15:52:31	American Redstart	82	Setophaga ruticilla
+2026-06-23 16:07:35	Warbling Vireo	96	Vireo gilvus
+2026-06-23 16:07:35	Warbling Vireo	87	Vireo gilvus
