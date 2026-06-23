@@ -2095,3 +2095,4 @@
 2026-06-23 08:22:22	Northern Cardinal	79	Cardinalis cardinalis
 2026-06-23 08:46:02	Song Sparrow	72	Melospiza melodia
 2026-06-23 09:11:56	Rock Pigeon	94	Columba livia
+2026-06-23 09:24:09	Downy Woodpecker	90	Dryobates pubescens
