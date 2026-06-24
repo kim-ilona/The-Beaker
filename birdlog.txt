@@ -2408,3 +2408,4 @@
 2026-06-24 15:31:11	Warbling Vireo	93	Vireo gilvus
 2026-06-24 15:32:19	House Finch	71	Haemorhous mexicanus
 2026-06-24 15:32:19	House Finch	90	Haemorhous mexicanus
+2026-06-24 15:37:21	Northern Parula	83	Setophaga americana
