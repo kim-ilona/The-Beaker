@@ -2390,3 +2390,4 @@
 2026-06-24 14:20:45	Warbling Vireo	95	Vireo gilvus
 2026-06-24 14:20:45	Warbling Vireo	93	Vireo gilvus
 2026-06-24 14:28:08	Warbling Vireo	86	Vireo gilvus
+2026-06-24 14:34:26	Cedar Waxwing	96	Bombycilla cedrorum
