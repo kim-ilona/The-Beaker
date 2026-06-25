@@ -2522,3 +2522,5 @@
 2026-06-25 05:46:36	Warbling Vireo	78	Vireo gilvus
 2026-06-25 05:46:36	Warbling Vireo	87	Vireo gilvus
 2026-06-25 05:47:10	Warbling Vireo	95	Vireo gilvus
+2026-06-25 05:47:44	Black-crowned Night-Heron	85	Nycticorax nycticorax
+2026-06-25 05:47:44	Warbling Vireo	95	Vireo gilvus
