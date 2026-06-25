@@ -2600,3 +2600,5 @@
 2026-06-25 12:02:04	American Redstart	85	Setophaga ruticilla
 2026-06-25 12:16:58	Yellow Warbler	78	Setophaga petechia
 2026-06-25 12:20:49	Warbling Vireo	89	Vireo gilvus
+2026-06-25 12:26:51	Warbling Vireo	79	Vireo gilvus
+2026-06-25 12:26:51	Warbling Vireo	95	Vireo gilvus
