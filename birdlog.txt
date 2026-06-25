@@ -2598,3 +2598,4 @@
 2026-06-25 11:53:14	Northern Cardinal	81	Cardinalis cardinalis
 2026-06-25 11:53:48	Northern Cardinal	75	Cardinalis cardinalis
 2026-06-25 12:02:04	American Redstart	85	Setophaga ruticilla
+2026-06-25 12:16:58	Yellow Warbler	78	Setophaga petechia
