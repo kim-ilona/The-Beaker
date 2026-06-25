@@ -2606,3 +2606,4 @@
 2026-06-25 12:33:26	Yellow Warbler	75	Setophaga petechia
 2026-06-25 12:34:01	Yellow Warbler	71	Setophaga petechia
 2026-06-25 12:41:41	Chestnut-sided Warbler	72	Setophaga pensylvanica
+2026-06-25 12:54:53	Warbling Vireo	87	Vireo gilvus
