@@ -2599,3 +2599,4 @@
 2026-06-25 11:53:48	Northern Cardinal	75	Cardinalis cardinalis
 2026-06-25 12:02:04	American Redstart	85	Setophaga ruticilla
 2026-06-25 12:16:58	Yellow Warbler	78	Setophaga petechia
+2026-06-25 12:20:49	Warbling Vireo	89	Vireo gilvus
