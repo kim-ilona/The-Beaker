@@ -2762,3 +2762,4 @@
 2026-06-26 06:03:50	Song Sparrow	77	Melospiza melodia
 2026-06-26 06:04:59	American Redstart	75	Setophaga ruticilla
 2026-06-26 06:04:59	American Redstart	89	Setophaga ruticilla
+2026-06-26 06:13:59	Northern Cardinal	84	Cardinalis cardinalis
