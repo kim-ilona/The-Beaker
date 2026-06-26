@@ -2743,3 +2743,4 @@
 2026-06-26 05:32:07	Warbling Vireo	95	Vireo gilvus
 2026-06-26 05:32:42	Warbling Vireo	71	Vireo gilvus
 2026-06-26 05:37:12	Warbling Vireo	98	Vireo gilvus
+2026-06-26 05:38:54	Northern Cardinal	78	Cardinalis cardinalis
