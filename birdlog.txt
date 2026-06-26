@@ -2722,3 +2722,4 @@
 2026-06-25 21:08:02	White-breasted Nuthatch	81	Sitta carolinensis
 2026-06-25 22:21:54	Black-crowned Night-Heron	95	Nycticorax nycticorax
 2026-06-25 22:25:21	Killdeer	78	Charadrius vociferus
+2026-06-25 22:29:22	Cedar Waxwing	80	Bombycilla cedrorum
