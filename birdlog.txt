@@ -2756,3 +2756,5 @@
 2026-06-26 05:47:30	Warbling Vireo	74	Vireo gilvus
 2026-06-26 05:47:30	Warbling Vireo	84	Vireo gilvus
 2026-06-26 05:47:30	Downy Woodpecker	98	Dryobates pubescens
+2026-06-26 05:49:46	Northern Cardinal	73	Cardinalis cardinalis
+2026-06-26 05:49:46	Northern Cardinal	71	Cardinalis cardinalis
