@@ -2835,3 +2835,4 @@
 2026-06-26 12:41:04	Song Sparrow	74	Melospiza melodia
 2026-06-26 12:42:12	Song Sparrow	88	Melospiza melodia
 2026-06-26 13:18:00	American Redstart	73	Setophaga ruticilla
+2026-06-26 13:40:12	Downy Woodpecker	83	Dryobates pubescens
