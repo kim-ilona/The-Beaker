@@ -2772,3 +2772,4 @@
 2026-06-26 06:26:22	Hairy Woodpecker	90	Dryobates villosus
 2026-06-26 06:26:56	Warbling Vireo	89	Vireo gilvus
 2026-06-26 06:26:56	Warbling Vireo	96	Vireo gilvus
+2026-06-26 06:28:03	Northern Cardinal	77	Cardinalis cardinalis
