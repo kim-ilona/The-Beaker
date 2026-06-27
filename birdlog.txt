@@ -3126,3 +3126,4 @@
 2026-06-27 18:50:26	Northern Cardinal	76	Cardinalis cardinalis
 2026-06-27 18:51:01	Northern Cardinal	92	Cardinalis cardinalis
 2026-06-27 19:04:40	Rock Pigeon	81	Columba livia
+2026-06-27 19:06:23	Downy Woodpecker	83	Dryobates pubescens
