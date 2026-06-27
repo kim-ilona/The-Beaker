@@ -2894,3 +2894,4 @@
 2026-06-26 20:03:48	American Redstart	75	Setophaga ruticilla
 2026-06-26 20:31:23	American Redstart	71	Setophaga ruticilla
 2026-06-26 21:47:50	Black-crowned Night-Heron	83	Nycticorax nycticorax
+2026-06-27 02:40:33	Eastern Bluebird	75	Sialia sialis
