@@ -3255,7 +3255,6 @@
 2026-06-28 06:50:10	Warbling Vireo	80	Vireo gilvus
 2026-06-28 06:50:45	Warbling Vireo	81	Vireo gilvus
 2026-06-28 06:54:42	Warbling Vireo	81	Vireo gilvus
-2026-06-28 07:00:55	Winter Wren	71	Troglodytes hiemalis
 2026-06-28 07:01:30	American Redstart	91	Setophaga ruticilla
 2026-06-28 07:03:46	Warbling Vireo	87	Vireo gilvus
 2026-06-28 07:04:55	Warbling Vireo	70	Vireo gilvus
@@ -3292,4 +3291,6 @@
 2026-06-28 07:32:56	Warbling Vireo	81	Vireo gilvus
 2026-06-28 07:37:27	Northern Parula	70	Setophaga americana
 2026-06-28 07:39:10	Warbling Vireo	78	Vireo gilvus
-2026-06-28 07:48:47	Warbling Vireo	95	Vireo gilvus
+2026-06-28 07:50:15	Warbling Vireo	88	Vireo gilvus
+2026-06-28 07:52:46	Warbling Vireo	75	Vireo gilvus
+2026-06-28 07:54:29	Warbling Vireo	74	Vireo gilvus
