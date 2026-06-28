@@ -3256,3 +3256,4 @@
 2026-06-28 06:50:45	Warbling Vireo	81	Vireo gilvus
 2026-06-28 06:54:42	Warbling Vireo	81	Vireo gilvus
 2026-06-28 07:00:55	Winter Wren	71	Troglodytes hiemalis
+2026-06-28 07:01:30	American Redstart	91	Setophaga ruticilla
