@@ -3137,3 +3137,4 @@
 2026-06-27 20:16:56	Downy Woodpecker	96	Dryobates pubescens
 2026-06-27 20:34:44	American Redstart	83	Setophaga ruticilla
 2026-06-27 20:42:00	Downy Woodpecker	90	Dryobates pubescens
+2026-06-27 21:06:34	Northern Cardinal	77	Cardinalis cardinalis
