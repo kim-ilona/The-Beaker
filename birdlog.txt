@@ -3620,3 +3620,4 @@
 2026-06-29 08:18:27	Warbling Vireo	76	Vireo gilvus
 2026-06-29 08:20:09	Warbling Vireo	80	Vireo gilvus
 2026-06-29 08:28:01	Warbling Vireo	80	Vireo gilvus
+2026-06-29 08:29:43	Brown-headed Cowbird	82	Molothrus ater
