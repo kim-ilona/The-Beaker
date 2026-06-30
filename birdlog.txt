@@ -3775,3 +3775,4 @@
 2026-06-30 06:09:02	American Redstart	76	Setophaga ruticilla
 2026-06-30 06:10:43	Hairy Woodpecker	88	Dryobates villosus
 2026-06-30 06:15:11	American Redstart	83	Setophaga ruticilla
+2026-06-30 06:16:19	Downy Woodpecker	89	Dryobates pubescens
