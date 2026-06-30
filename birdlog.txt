@@ -3853,3 +3853,4 @@
 2026-06-30 13:42:32	Downy Woodpecker	87	Dryobates pubescens
 2026-06-30 14:02:40	Downy Woodpecker	79	Dryobates pubescens
 2026-06-30 14:07:19	Northern Parula	73	Setophaga americana
+2026-06-30 14:22:10	Warbling Vireo	85	Vireo gilvus
