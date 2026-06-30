@@ -3731,3 +3731,5 @@
 2026-06-29 20:18:27	American Redstart	94	Setophaga ruticilla
 2026-06-29 20:32:36	American Redstart	76	Setophaga ruticilla
 2026-06-29 20:32:36	American Redstart	74	Setophaga ruticilla
+2026-06-29 22:44:51	Black-crowned Night-Heron	88	Nycticorax nycticorax
+2026-06-29 22:44:51	Black-crowned Night-Heron	92	Nycticorax nycticorax
