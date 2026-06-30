@@ -3826,3 +3826,4 @@
 2026-06-30 09:28:08	Warbling Vireo	83	Vireo gilvus
 2026-06-30 09:29:17	Warbling Vireo	77	Vireo gilvus
 2026-06-30 09:43:23	American Redstart	90	Setophaga ruticilla
+2026-06-30 09:55:52	House Sparrow	72	Passer domesticus
