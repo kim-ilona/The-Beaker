@@ -3901,3 +3901,5 @@
 2026-06-30 19:33:52	House Sparrow	74	Passer domesticus
 2026-06-30 19:36:11	Downy Woodpecker	70	Dryobates pubescens
 2026-06-30 19:37:21	House Sparrow	84	Passer domesticus
+2026-06-30 19:44:47	House Sparrow	70	Passer domesticus
+2026-06-30 19:44:47	House Sparrow	74	Passer domesticus
