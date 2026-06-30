@@ -3735,3 +3735,4 @@
 2026-06-29 22:44:51	Black-crowned Night-Heron	92	Nycticorax nycticorax
 2026-06-29 22:48:12	Black-crowned Night-Heron	76	Nycticorax nycticorax
 2026-06-30 03:35:22	Killdeer	85	Charadrius vociferus
+2026-06-30 04:08:58	Yellow-throated Vireo	73	Vireo flavifrons
