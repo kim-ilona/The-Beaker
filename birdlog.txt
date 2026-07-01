@@ -3909,3 +3909,4 @@
 2026-06-30 19:55:11	American Redstart	90	Setophaga ruticilla
 2026-06-30 19:56:21	American Redstart	75	Setophaga ruticilla
 2026-06-30 20:07:16	Downy Woodpecker	91	Dryobates pubescens
+2026-06-30 20:10:09	House Sparrow	72	Passer domesticus
