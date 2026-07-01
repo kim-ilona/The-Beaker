@@ -4261,3 +4261,6 @@
 2026-07-01 15:25:56	Warbling Vireo	93	Vireo gilvus
 2026-07-01 15:25:56	Warbling Vireo	95	Vireo gilvus
 2026-07-01 15:27:36	Common Nighthawk	80	Chordeiles minor
+2026-07-01 15:29:51	Warbling Vireo	85	Vireo gilvus
+2026-07-01 15:29:51	Warbling Vireo	95	Vireo gilvus
+2026-07-01 15:29:51	American Redstart	73	Setophaga ruticilla
