@@ -4113,3 +4113,4 @@
 2026-07-01 08:43:39	Rock Pigeon	78	Columba livia
 2026-07-01 08:44:13	American Redstart	73	Setophaga ruticilla
 2026-07-01 08:44:13	American Redstart	81	Setophaga ruticilla
+2026-07-01 08:44:48	American Redstart	77	Setophaga ruticilla
