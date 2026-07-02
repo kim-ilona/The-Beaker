@@ -4311,3 +4311,4 @@
 2026-07-01 19:52:24	Northern Parula	70	Setophaga americana
 2026-07-01 20:01:44	Gray Catbird	78	Dumetella carolinensis
 2026-07-01 20:02:51	Gray Catbird	86	Dumetella carolinensis
+2026-07-01 20:10:31	American Redstart	73	Setophaga ruticilla
